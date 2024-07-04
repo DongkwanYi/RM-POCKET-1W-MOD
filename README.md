@@ -13,7 +13,7 @@ This repo is 2S internal power mod of Poket.
 parts that we need :
 1. RF module for Boxer + Fan
 2. NTGS4111 : P-channel FET, 30V, 2.6A@25°C
-3. 100kΩ resistor : 1608size(mm) = 0603size(inch)
-4. 10kΩ resistor : 1608size(mm) = 0603size(inch)
+3. 100kΩ resistor : 1608(mm) = 0603(inch)
+4. 10kΩ resistor : 1608(mm) = 0603(inch)
 5. BAR6303W : PIN diode : optional
-6. 4.7uF MLCC : optional
+6. 4.7uF MLCC : 2012(mm) = 0805(inch) optional
