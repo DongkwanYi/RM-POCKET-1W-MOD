@@ -17,3 +17,10 @@ parts that we need :
 4. 10kΩ resistor : 1608(mm) = 0603(inch)
 5. BAR6303W : PIN diode : optional
 6. 4.7uF MLCC : 2012(mm) = 0805(inch) optional
+
+--------------------------------------------------------------------------------------------------
+Schematic for reference :
+https://www.rcgroups.com/forums/showthread.php?3869543-Blog-17-RadioMaster-TX16S-schematic-diagram
+
+Thank you Risto!
+--------------------------------------------------------------------------------------------------
