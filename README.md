@@ -1,3 +1,5 @@
+a helpful video : https://youtu.be/1052AAH3pbU
+
 RM-POCKET-1W-MOD
 
 ELRS power of RM POCKET is 250mW.
